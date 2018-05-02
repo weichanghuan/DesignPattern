@@ -1,6 +1,5 @@
 package com.test.structuraltype.proxy;
 
-import com.sun.tools.internal.xjc.reader.xmlschema.bindinfo.BIConversion;
 import com.test.structuraltype.proxy.bean.User;
 
 /**
